@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Muskan Garg! 👩‍💻
 
 🎓 **Passionate Frontend Developer | MERN Stack Enthusiast | Problem Solver**  

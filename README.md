@@ -1,7 +1,7 @@
 # Hi, I'm Muskan Garg! 👩‍💻
 
 🎓 **Passionate Frontend Developer | MERN Stack Enthusiast | Problem Solver**  
-🌟 I love building web applications and solving problems using modern technologies.  
+Hi there! I'm Muskan, a final-year B.Tech Computer Science student at the Institute of Engineering and Technology, Lucknow. I'm driven by my passion for building impactful and user-friendly web applications. I specialize in front-end development and enjoy crafting seamless user experiences with modern technologies.
 
 ### 🚀 What I'm Currently Exploring:
 - React.js and Node.js for full-stack development.

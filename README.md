@@ -1,6 +1,6 @@
 # Hi, I'm Muskan Garg! 👩‍💻
 
-🎓 **Passionate Frontend Developer | MERN Stack Enthusiast | Problem Solver**  
+🎓 **Passionate Java Developer | Problem Solver**  
 Hi there! I'm Muskan, a final-year B.Tech Computer Science student at the Institute of Engineering and Technology, Lucknow. I'm driven by my passion for building impactful and user-friendly web applications. I specialize in back-end development and enjoy crafting seamless user experiences with modern technologies.
 
 ### 🚀 What I'm Currently Exploring:

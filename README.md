@@ -1,7 +1,7 @@
 # Hi, I'm Muskan Garg! 👩‍💻
 
 🎓 **Passionate Java Developer | Problem Solver**  
-Hi there! I'm Muskan, a final-year B.Tech Computer Science student at the Institute of Engineering and Technology, Lucknow. I'm driven by my passion for building impactful and user-friendly web applications. I specialize in back-end development and enjoy crafting seamless user experiences with modern technologies.
+Hi there! I'm Muskan, a Java Backend Developer at Hero FinCorp, building scalable microservices and high-performance backend systems using Java, Spring Boot, Redis, AWS, and REST APIs. Passionate about distributed systems, problem-solving, and developing reliable software that powers real-world financial applications.
 
 ### 🚀 What I'm Currently Exploring:
 - Java and Spring Boot for Backend development.
@@ -11,12 +11,12 @@ Hi there! I'm Muskan, a final-year B.Tech Computer Science student at the Instit
 - Improving my problem-solving skills on platforms like [LeetCode](https://leetcode.com/u/pioneer_2025/) and [Codeforces](https://codeforces.com/profile/Muskangarg_21).
 
 ### 📂 My Skill Set:
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-4285F4?logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?logoColor=white)
 
 ### 🛠️ Tools & Technologies:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
